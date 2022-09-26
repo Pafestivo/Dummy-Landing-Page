@@ -138,12 +138,11 @@ right p {
 .third {
   background-color: #d6d6d6;
   height: 300px;
-  padding: 80px;
 }
 
 .third .container {
   display: flex;
-  width: 42%;
+  width: 30%;
   flex-direction: column;
 }
 

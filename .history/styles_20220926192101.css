@@ -138,12 +138,10 @@ right p {
 .third {
   background-color: #d6d6d6;
   height: 300px;
-  padding: 80px;
 }
 
 .third .container {
   display: flex;
-  width: 42%;
   flex-direction: column;
 }
 
@@ -154,10 +152,9 @@ right p {
 }
 
 .third .quote-owner {
-  font-size: 24px;
+  font-size: 16px;
   align-self: flex-end;
   font-style: none;
-  font-weight: bold;
   margin-top: 5px;
 }
 /* End third section  */

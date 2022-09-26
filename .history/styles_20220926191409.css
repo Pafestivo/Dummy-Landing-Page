@@ -102,7 +102,7 @@ right p {
 
 /* Second section */
 .second {
-  height: 350px;
+  height: 400px;
 }
 
 .second h1 {
@@ -136,28 +136,7 @@ right p {
 
 /* Third section  */
 .third {
-  background-color: #d6d6d6;
+  background-color: #e5e7eb;
   height: 300px;
-  padding: 80px;
-}
-
-.third .container {
-  display: flex;
-  width: 42%;
-  flex-direction: column;
-}
-
-.third p {
-  font-size: 36px;
-  font-style: italic;
-  color: #1F2937;
-}
-
-.third .quote-owner {
-  font-size: 24px;
-  align-self: flex-end;
-  font-style: none;
-  font-weight: bold;
-  margin-top: 5px;
 }
 /* End third section  */
