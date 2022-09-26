@@ -164,7 +164,7 @@ right p {
 
 /* Fourth section */
 .fourth {
-  height: 320px;
+  height: 350px;
   display: flex;
   align-items: center;
 }
@@ -198,9 +198,6 @@ right p {
 
 /* Footer */
 footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: #1F2937;
   height: 60px;
   color: #E5E7EB;

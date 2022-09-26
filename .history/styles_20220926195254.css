@@ -198,11 +198,14 @@ right p {
 
 /* Footer */
 footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: #1F2937;
   height: 60px;
   color: #E5E7EB;
+}
+
+footer p {
+  display: flex;
+  align-self: center;
+  text-align: center;
 }
 /* End footer */
