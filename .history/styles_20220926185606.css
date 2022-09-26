@@ -112,7 +112,7 @@ right p {
 .boxes {
   display: flex;
   justify-content: center;
-  gap: 60px;
+  gap: 40px;
 }
 
 .box {
@@ -123,9 +123,8 @@ right p {
 }
 
 .box-info {
-  margin-top: 5px;
   width: 120px;
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
 }
 /* End second section  */
