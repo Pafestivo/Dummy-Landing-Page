@@ -19,7 +19,7 @@ a {
   color: inherit;
 }
 
-/* header bar */
+/* head area */
 header {
   display: flex;
   align-items: center;
@@ -33,9 +33,13 @@ header .container {
   justify-content: space-between;
 }
 
+header h1 {
+}
+
 header nav {
   display: flex;
   align-items: center;
+  background-color: red;
   gap: 25px;
 }
-/* End header bar  */
+/* End head area  */

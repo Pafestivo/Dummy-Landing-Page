@@ -19,7 +19,7 @@ a {
   color: inherit;
 }
 
-/* header bar */
+/* head area */
 header {
   display: flex;
   align-items: center;
@@ -38,4 +38,4 @@ header nav {
   align-items: center;
   gap: 25px;
 }
-/* End header bar  */
+/* End head area  */

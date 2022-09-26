@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: serif;
+  background-color: #eee;
+}
+
+.container {
+  width: 80vw;
+  margin: 0 auto;
+}
+
+/* head area */
+header .container {
+  display: flex;
+  justify-content: space-between;
+}
+/* End head area  */

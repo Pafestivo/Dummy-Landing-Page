@@ -19,23 +19,15 @@ a {
   color: inherit;
 }
 
-/* header bar */
+/* head area */
 header {
-  display: flex;
-  align-items: center;
   background-color: #1F2937;
   color: #fff;
-  height: 50px;
+  height: 60px;
 }
 
 header .container {
   display: flex;
   justify-content: space-between;
 }
-
-header nav {
-  display: flex;
-  align-items: center;
-  gap: 25px;
-}
-/* End header bar  */
+/* End head area  */

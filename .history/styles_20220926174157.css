@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: serif;
+  background-color: #eee;
+}
+
+.container {
+  width: 80vw;
+  margin: 0 auto;
+}
+
+/* head area */
+header {
+  background-color: #1F2937;
+}
+
+header h1 {
+  font-size: 48px;
+  font-weight: extra-bold;
+  color: #F9FAF8;
+}
+
+header p {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+}
+/* End head area  */

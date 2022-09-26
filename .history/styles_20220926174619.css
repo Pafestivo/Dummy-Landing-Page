@@ -19,10 +19,8 @@ a {
   color: inherit;
 }
 
-/* header bar */
+/* head area */
 header {
-  display: flex;
-  align-items: center;
   background-color: #1F2937;
   color: #fff;
   height: 50px;
@@ -35,7 +33,8 @@ header .container {
 
 header nav {
   display: flex;
+  min-height: 50px;
   align-items: center;
-  gap: 25px;
+  background-color: red;
 }
-/* End header bar  */
+/* End head area  */
