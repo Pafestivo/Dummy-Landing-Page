@@ -67,7 +67,7 @@ header a {
 .right {
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  gap: 15px;
   height: 200px;
   width: 40%;
 }
@@ -76,7 +76,6 @@ header a {
   font-size: 48px;
   font-weight: extra-bold;
   color: #F9FAF8;
-  line-height: 45px;
 }
 
 right p {
@@ -87,15 +86,5 @@ right p {
 .first img {
   width: 500px;
   height: 200px;
-}
-
-.first a {
-  background-color: #3882F6;
-  width: 95px;
-  padding: 5px;
-  border-radius: 5px;
-  margin-top: 4px;
-  text-align: center;
-  
 }
 /* End first section  */

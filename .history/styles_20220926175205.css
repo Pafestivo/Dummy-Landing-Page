@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: serif;
+  background-color: #eee;
+}
+
+.container {
+  width: 75vw;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* header bar */
+header {
+  display: flex;
+  align-items: center;
+  background-color: #1F2937;
+  color: #fff;
+  height: 50px;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+/* End header bar  */
+
+/* First section  */
+.first {
+  background-color: #1F2937;
+  height: 100px;
+}
+/* End first section  */

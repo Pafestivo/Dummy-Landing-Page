@@ -90,11 +90,12 @@ right p {
 }
 
 .first a {
+  display: flex;
+  align-self: center;
   background-color: #3882F6;
   width: 95px;
-  padding: 5px;
-  border-radius: 5px;
-  margin-top: 4px;
+  height: 30px;
+  border-radius: 7px;
   text-align: center;
   
 }
